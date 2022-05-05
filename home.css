@@ -1,0 +1,34 @@
+body {
+    background-image: url("filhotes.jpg");
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 250px;
+    color: white;
+}
+
+div {
+    height: 400 px;
+    width: 500px;
+    background-color: black;
+    opacity: 0.5;
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#botao {
+    margin-top: 25px;
+    margin-left: 50px;
+    width: 100px;
+    padding: 10px;
+    color: white;
+    border-radius: 5px;
+    background-color: #903F0A;   
+
+}
+
+.label {
+    margin-top: 2px;
+    padding-top: 25px;
+}

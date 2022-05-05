@@ -1,0 +1,34 @@
+#bg {
+    background-image: url("filhotes.jpg");
+}
+h2 {
+    text-align: center;
+}
+
+#fieldset {
+    height: 250px;
+    width: 500px;
+    margin-left: 400px;
+    margin-top: 200px;
+    background-color: black;
+    opacity: 0.6;
+    color: white;
+}
+
+button {
+    margin-left: 150px;
+    margin-top: 25px;
+    width: 200px;
+    padding: 10px;
+    color: white;
+    border-radius: 5px;
+    background-color: #5D5656;
+}
+
+.center {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}

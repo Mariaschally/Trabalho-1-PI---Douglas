@@ -1,0 +1,33 @@
+body {
+    background-image: url("listaPet.jpg");
+    background-size: cover;
+}
+
+button {
+    margin-left: 40px;
+    margin-top: 40px;
+    width: 200px;
+    padding: 10px;
+    color: black;
+    border-radius: 20px;
+    background-color: snow;
+}
+
+th {
+    background-color: burlywood;
+    color: white;
+    width: 300px;
+    height: 30px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.table {
+    margin-left: 15px;
+}
+
+a {
+    text-decoration: none;
+}
